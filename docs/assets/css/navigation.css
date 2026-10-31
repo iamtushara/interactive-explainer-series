@@ -1,0 +1,4 @@
+.series-nav { box-sizing:border-box; display:flex; flex-wrap:wrap; align-items:center; gap:10px; max-width:1120px; margin:0 auto 24px; padding:16px; border:1px solid #46516e; border-radius:12px; background:#171b26; color:#e8eaf0; font:14px/1.6 system-ui,sans-serif; }
+.series-nav a { color:#b9ccff; text-decoration:underline; text-underline-offset:3px; }
+.series-nav a:focus-visible { outline:3px solid #ffd479; outline-offset:4px; }
+.series-footer { margin-top:32px; justify-content:space-between; }
